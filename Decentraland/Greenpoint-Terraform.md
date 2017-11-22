@@ -4,7 +4,7 @@
 
 To establish a common ground and place that is based on the vision of decentralization and borderless collaboration, Greenpoint will be built in [Decentraland](https://decentraland.org/) — a cutting-edge decentralized open VR world on the Ethereum platform.
 
-In addition to The Movement Token (MVT), LAND in the Decentraland Terraform Event has been secured by The Movement's initial creator as a free gift to all Movement participants of the presence and the future. It is meant for people to build upon, to make friends and collaborate, to connect and create. Build valuable decentralized networks based on trust and friendship.
+In addition to The Movement Token (MVT), LAND in the Decentraland Terraform Event has been secured by The Movement's initial creator as a gift to all Movement participants of the presence and the future. It is meant for people to build upon, to make friends and collaborate, to connect and create. Build valuable decentralized networks based on trust and friendship.
 
 * * *
 
