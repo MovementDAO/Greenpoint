@@ -12,9 +12,9 @@ Initial Decentraland Terraform **LAND** Reservation Transactions (MANA locked in
 
 **0x187a1af38e680252dadb72782ae91db22c8d76c5**
 74000 MANA:
-https://etherscan.io/tx/0xeb720d3208ff10d02263489cbe13b31adbe750b5a0bd8ed665c9fafe3f7bc555
-https://etherscan.io/tx/0x6dcdc842a08311e981b968604901bbc34e74883bf37d40781a8c3337975cd523
-https://etherscan.io/tx/0xe43515911b6f7b10b68a8d5e87a0bde0c33151678518496a34fe59ea51586738
+https://etherscan.io/tx/0xeb720d3208ff10d02263489cbe13b31adbe750b5a0bd8ed665c9fafe3f7bc555,
+https://etherscan.io/tx/0x6dcdc842a08311e981b968604901bbc34e74883bf37d40781a8c3337975cd523,
+https://etherscan.io/tx/0xe43515911b6f7b10b68a8d5e87a0bde0c33151678518496a34fe59ea51586738,
 https://etherscan.io/tx/0x248c3bdba011d2eefdde86bb352c1f34ad3fe529986c643a82f967d8dea46d93
 
 **0x98cf4b8152a043f9beef7b6557b9db99ffa7c704**
