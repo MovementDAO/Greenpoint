@@ -23,6 +23,6 @@ Total: 99000 MANA (99 LAND)
 
 Including Community Reservations:
 
-Total: 170000 MANA (as of 22th November 2017) (170 LAND)
+Total: 170000 MANA (170 LAND) (last updated: 22th November 2017)
 
 https://terraform.decentraland.org/
