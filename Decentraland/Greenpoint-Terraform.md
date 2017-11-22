@@ -1,6 +1,6 @@
 # Greenpoint and Decentraland's Terraform
 
-**Greenpoint** is a virtual headquarter for decentralized collaboration. It allows people from all around the world to connect and create across borders and cultures. Organized as a Decentralized Autonomous Organization (DAO), The Movement allows anyone to take part in its development and governance. The Movement is a pioneering organization and movement for the advancement of decentralized grassroots activity worldwide. 
+Greenpoint is a virtual headquarter for decentralized collaboration. It allows people from all around the world to connect and create across borders and cultures. Organized as a Decentralized Autonomous Organization (DAO), The Movement allows anyone to take part in its development and governance. The Movement is a pioneering organization and movement for the advancement of decentralized grassroots activity worldwide. 
 
 To establish a common ground and place that is based on the vision of decentralization and borderless collaboration, Greenpoint will be built in [Decentraland](https://decentraland.org/) — a cutting-edge decentralized open VR world on the Ethereum platform.
 
