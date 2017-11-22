@@ -29,6 +29,6 @@ Total: 170000 MANA (170 LAND, Last updated: 22th November 2017)
 
 * * *
 
-The Movement DAO Discussion: https://bitcointalk.org/index.php?topic=2068554.1560
+The Movement DAO Bitcointalk Discussion Thread: https://bitcointalk.org/index.php?topic=2068554.1560
 
 Decentraland Terraform: https://terraform.decentraland.org/
