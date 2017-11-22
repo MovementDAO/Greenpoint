@@ -2,7 +2,7 @@
 
 Greenpoint is a virtual headquarter for decentralized collaboration. Organized as a Decentralized Autonomous Organization (DAO), The Movement allows anyone to take part in its development and governance. The Movement is a pioneering organization and movement for the advancement of decentralized grassroots activity worldwide. 
 
-To establish a common ground and place that embraces the vision of decentralization and borderless collaboration, Greenpoint will be build in Decentraland — a cutting-edge decentralized open VR world on the Ethereum platform.
+To establish a common ground and place that embraces the vision of decentralization and borderless collaboration, Greenpoint will be built in Decentraland — a cutting-edge decentralized open VR world on the Ethereum platform.
 
 In addition to The Movement Token (MVT), LAND has been secured by the initial creator as a free gift to all Movement participants of the presence and the future to build upon. It is meant for people to make friends and collaborate, to connect and create. Build valuable decentralized networks based on trust and friendship.
 
