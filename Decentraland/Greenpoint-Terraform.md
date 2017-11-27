@@ -25,7 +25,7 @@ Total: 99000 MANA (99 LAND)
 
 Including Community Reservations:
 
-Total: 186000 MANA (186 LAND, Last updated: 22th November 2017)
+Total: 201000 MANA (201 LAND, Last updated: 27th November 2017)
 
 * * *
 
