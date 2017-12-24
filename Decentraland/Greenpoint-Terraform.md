@@ -21,14 +21,12 @@ https://etherscan.io/tx/0x248c3bdba011d2eefdde86bb352c1f34ad3fe529986c643a82f967
 25000 MANA:
 https://etherscan.io/tx/0xa4b1b5e385e132515eaf0f887a1c6dda9e1326c8369985fca3dcef611f0895c4
 
-Total: 99000 MANA (99 LAND)
+Total: 99000 MANA (**99 LAND**)
 
-Including Community Reservations:
+Including MANA committed to the District by the community:
 
-Total: 408000 MANA (408 LAND, Last updated: 13th December 2017)
+Total: 414000 MANA (**414 LAND**, Last updated: 24th December 2017)
 
 * * *
 
 The Movement DAO Bitcointalk Discussion Thread: https://bitcointalk.org/index.php?topic=2068554
-
-Decentraland Terraform: https://terraform.decentraland.org/
