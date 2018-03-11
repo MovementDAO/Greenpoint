@@ -6,6 +6,6 @@ Scenes can contain numerous objects and lights. Content can consist of both simp
 
 ### Tools 
 
-**Decentraland Parcel Editor**: real time editing of 3D virtual reality scenes. Based on A-Frame Inspector. http://editor.decentraland.org.
+* **[Decentraland Parcel Editor](http://editor.decentraland.org)**: real time editing of 3D virtual reality scenes. Based on A-Frame Inspector.
 
-**Decentraland Command Line Interface** (CLI): parcel management and direct control over content. Create, edit, and upload scenes to land parcels. https://github.com/decentraland/cli
+* **[Decentraland Command Line Interface](https://github.com/decentraland/cli)** (CLI): parcel management and direct control over content. Create, edit, and upload scenes to land parcels.
