@@ -1,6 +1,6 @@
 # Greenpoint District Proposal Vote
 
-Land contributors who staked MANA to Greenpoint in the Decentraland Terraform Event are asked to confirm or deny approval of the [Development Plan]( https://github.com/MovementDAO/Greenpoint/blob/master/Greenpoint-Dev-Plan-v1.0.pdf) proposal. The district development proposal vote is open for 14 days, starting Tuesday 18 April 2018 00:00 AM UTC, ending 25 April 2018 00:00 AM UTC.
+Land contributors who staked MANA to Greenpoint in the Decentraland Terraform Event are asked to confirm or deny approval of the [Development Plan]( https://github.com/MovementDAO/Greenpoint/blob/master/Greenpoint-Dev-Plan-v1.0.pdf) proposal. The district development proposal vote is open for 14 days, starting Tuesday 18 April 2018 00:00 AM UTC, ending 2 May 2018 00:00 AM UTC.
 
 The plan will be considered approved when more than 67% of the land contribution addresses have confirmed approval. Votes are accounted for in proportion to the land parcel amount contributed.
 
