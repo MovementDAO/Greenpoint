@@ -6,7 +6,7 @@ The plan will be considered approved when more than 67% of the land contribution
 
 # How to Vote
 
-Cryptographically sign the following message from your contribution address and publish the result:
+Cryptographically sign the following message from your contribution address:
 
 >I hereby approve of the proposed plan laid out in the Development Plan v1.0 document, and confirm that I have thoroughly read and understood its contents.
 
@@ -23,4 +23,4 @@ Example Signature:
 >  "signer": "MEW"
 >}
 
-You can either send your signature to movementdao@protonmail.com, hand it in via our Decentraland Discord channel, publish it via Github [MovementDAO/Greenpoint](https://github.com/MovementDAO/Greenpoint/issues/1), or send it to us on any of the official channels. All signatures will be collected and are publicly verifiable.
+Publish your signature. You can either hand it in via our Decentraland Discord channel, send it to movementdao@protonmail.com, or publish it via Github [MovementDAO/Greenpoint](https://github.com/MovementDAO/Greenpoint/issues/1). All signatures will be collected and are publicly verifiable.
