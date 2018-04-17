@@ -23,4 +23,4 @@ For instance:
 >  "signer": "MEW"
 >}
 
-(2) Publish your signature. You can either hand it in by posting it on Github [MovementDAO/Greenpoint](https://github.com/MovementDAO/Greenpoint/issues/1), on our Decentraland Discord channel, or sending it to movementdao@protonmail.com. All signatures will be collected and are cryptographically verifiable.
+(2) Publish your signature. You can either hand it in by posting it on Github [MovementDAO/Greenpoint](https://github.com/MovementDAO/Greenpoint/issues/1), on our Decentraland Discord channel, or via e-mail to movementdao@protonmail.com. All signatures will be collected and are cryptographically verifiable.
