@@ -14,7 +14,7 @@ Example: Using MyEtherWallet's sign message function https://www.myetherwallet.c
 
 Enter the message. Sign in to your account and click "Sign Message". Copy the Signature.
 
-Example Signature:
+For instance:
 >{
 >  "address": "0xc5066a9f08684dce9a5d41dd663c328e32959eb2",
 >  "msg": "I hereby approve of the proposed plan laid out in the Development Plan v1.0 document, and confirm that I have thoroughly read and understood its contents.",
