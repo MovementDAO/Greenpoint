@@ -8,7 +8,9 @@ The plan will be considered approved when more than 67% of the lands that voted 
 
 (1) Sign the following message from your contribution address:
 
->I hereby approve of the proposed plan laid out in the Development Plan v1.0 document, and confirm that I have thoroughly read and understood its contents.
+>I approve the proposed plan laid out in the Development Plan v1.0 document, and confirm that I have thoroughly read and understood its contents.
+
+Should you choose to deny the proposal rather than approve it, please replace "approve" with "deny".
 
 Example: Using MyEtherWallet's sign message function https://www.myetherwallet.com/signmsg.html:
 
@@ -17,8 +19,8 @@ Enter the message. Sign in to your account and click "Sign Message". Copy the Si
 For instance:
 >{
 >  "address": "0xc5066a9f08684dce9a5d41dd663c328e32959eb2",
->  "msg": "I hereby approve of the proposed plan laid out in the Development Plan v1.0 document, and confirm that I have thoroughly read and understood its contents.",
->  "sig": "0x79c6dda72469225e11a22928f37964ca2f079f1a4d5023d2e5ac3f676979dcd12706b8f5e4420b9d219225d0b0a613fbe8d4c43e871cdd97d6940c2cffd2c3821b",
+>  "msg": "I approve the proposed plan laid out in the Development Plan v1.0 document, and confirm that I have thoroughly read and >understood its contents.",
+>  "sig": >"0xf25d0c28e339651475e210ddc620b998cba4aa297efea04cb835ddec1d6fd54563e34814e41b3471b31bb324e5391e6d3236e5e830ae99804a2c8bc15f54ec721b",
 >  "version": "3",
 >  "signer": "MEW"
 >}
